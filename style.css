@@ -1,0 +1,8 @@
+.jupiter {
+    margin: 20px;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    background: radial-gradient(red, orange, red);
+    cursor: pointer;
+}
